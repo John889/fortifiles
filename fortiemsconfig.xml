@@ -2026,12 +2026,6 @@
 						<action>deny</action>
 					</url>
 					<url>
-						<address>www.testlolxd.com</address>
-						<referrer></referrer>
-						<type>simple</type>
-						<action>deny</action>
-					</url>
-					<url>
 						<address>1.cz</address>
 						<referrer></referrer>
 						<type>simple</type>

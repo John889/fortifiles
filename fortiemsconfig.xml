@@ -292,72 +292,6 @@
 						<action>allow</action>
 					</url>
 					<url>
-						<pattern>*external-preview.redd.it*</pattern>
-						<referrer></referrer>
-						<type>wildcard</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<address>*styles.redditmedia.com*</address>
-						<referrer></referrer>
-						<type>simple</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>*i.redd.it*</pattern>
-						<referrer></referrer>
-						<type>wildcard</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>*preview.redd.it*</pattern>
-						<referrer></referrer>
-						<type>wildcard</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>*v.redd.it*</pattern>
-						<referrer></referrer>
-						<type>wildcard</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>*www.redditmedia.com*</pattern>
-						<referrer></referrer>
-						<type>wildcard</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>*thumbs.redditmedia.com*</pattern>
-						<referrer></referrer>
-						<type>wildcard</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>*a.thumbs.redditmedia.com*</pattern>
-						<referrer></referrer>
-						<type>wildcard</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>*b.thumbs.redditmedia.com*</pattern>
-						<referrer></referrer>
-						<type>wildcard</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>*video.twimg.com*</pattern>
-						<referrer></referrer>
-						<type>wildcard</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>*pbs.twimg.com*</pattern>
-						<referrer></referrer>
-						<type>wildcard</type>
-						<action>deny</action>
-					</url>
-					<url>
 						<pattern>.*nsfw$</pattern>
 						<referrer></referrer>
 						<type>regex</type>
@@ -1175,12 +1109,6 @@
 					</url>
 					<url>
 						<pattern>.*stepsis.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*strip.*[.].*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
 						<action>deny</action>

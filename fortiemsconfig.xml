@@ -268,25 +268,25 @@
 						<action>allow</action>
 					</url>
 					<url>
-						<pattern>*reddit.com/r/nofap*</pattern>
+						<pattern>*.reddit.com/r/nofap*</pattern>
 						<referrer></referrer>
 						<type>wildcard</type>
 						<action>allow</action>
 					</url>
 					<url>
-						<pattern>*reddit.com/r/pornfree*</pattern>
+						<pattern>*.reddit.com/r/pornfree*</pattern>
 						<referrer></referrer>
 						<type>wildcard</type>
 						<action>allow</action>
 					</url>
 					<url>
-						<pattern>*yourbrainonporn.com*</pattern>
+						<pattern>*.yourbrainonporn.com*</pattern>
 						<referrer></referrer>
 						<type>wildcard</type>
 						<action>allow</action>
 					</url>
 					<url>
-						<pattern>*yourbrainrebalanced.com*</pattern>
+						<pattern>*.yourbrainrebalanced.com*</pattern>
 						<referrer></referrer>
 						<type>wildcard</type>
 						<action>allow</action>
@@ -460,9 +460,15 @@
 						<action>deny</action>
 					</url>
 					<url>
-						<pattern>.*imgur.*</pattern>
+						<address>https://imgur.com</address>
 						<referrer></referrer>
-						<type>regex</type>
+						<type>simple</type>
+						<action>deny</action>
+					</url>
+					<url>
+						<address>https://i.imgur.com</address>
+						<referrer></referrer>
+						<type>simple</type>
 						<action>deny</action>
 					</url>
 					<url>
@@ -641,12 +647,6 @@
 					</url>
 					<url>
 						<pattern>.*camhub.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*cock.*[.].*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
 						<action>deny</action>
@@ -7359,7 +7359,7 @@
 					</fortiguard>
 					<category>
 						<id>0</id>
-						<action>allow</action>
+						<action>monitor</action>
 					</category>
 					<category>
 						<id>1</id>
@@ -7367,7 +7367,7 @@
 					</category>
 					<category>
 						<id>2</id>
-						<action>deny</action>
+						<action>allow</action>
 					</category>
 					<category>
 						<id>3</id>
@@ -7395,7 +7395,7 @@
 					</category>
 					<category>
 						<id>9</id>
-						<action>deny</action>
+						<action>allow</action>
 					</category>
 					<category>
 						<id>11</id>
@@ -7563,7 +7563,7 @@
 					</category>
 					<category>
 						<id>57</id>
-						<action>deny</action>
+						<action>allow</action>
 					</category>
 					<category>
 						<id>58</id>
@@ -7825,7 +7825,7 @@
 			<hide_user_info>0</hide_user_info>
 			<hide_system_tray_icon>0</hide_system_tray_icon>
 			<show_host_tag>0</show_host_tag>
-			<password></password>
+			<password>Enc 71660c527ce86603fed484f8925b2854dcf1a2768d459b9bbd94a299f272cc8cfee1143956994e2a24f718f111c2101af4bf9006a3222099</password>
 			<culture_code>os-default</culture_code>
 			<allow_shutdown_when_registered>0</allow_shutdown_when_registered>
 		</ui>

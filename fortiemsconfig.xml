@@ -232,6 +232,12 @@
 						<action>allow</action>
 					</url>
 					<url>
+						<pattern>*.yourbrainrebalanced.com/*</pattern>
+						<referrer></referrer>
+						<type>wildcard</type>
+						<action>allow</action>
+					</url>
+					<url>
 						<pattern>*.live.com/*</pattern>
 						<referrer></referrer>
 						<type>wildcard</type>
@@ -280,13 +286,13 @@
 						<action>allow</action>
 					</url>
 					<url>
-						<pattern>*.yourbrainonporn.com*</pattern>
+						<pattern>*.yourbrainonporn.com/*</pattern>
 						<referrer></referrer>
 						<type>wildcard</type>
 						<action>allow</action>
 					</url>
 					<url>
-						<pattern>*.yourbrainrebalanced.com*</pattern>
+						<pattern>*.yourbrainrebalanced.com/*</pattern>
 						<referrer></referrer>
 						<type>wildcard</type>
 						<action>allow</action>

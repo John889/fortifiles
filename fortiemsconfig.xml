@@ -352,24 +352,6 @@
 						<action>deny</action>
 					</url>
 					<url>
-						<pattern>hdsex.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>xbabe.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>xtube.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
 						<pattern>.*-sex-.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
@@ -436,12 +418,6 @@
 						<action>deny</action>
 					</url>
 					<url>
-						<pattern>.*erovi.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
 						<pattern>.*flirt.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
@@ -454,27 +430,9 @@
 						<action>deny</action>
 					</url>
 					<url>
-						<pattern>.*hardx.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
 						<pattern>.*horny.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<address>https://imgur.com</address>
-						<referrer></referrer>
-						<type>simple</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<address>https://i.imgur.com</address>
-						<referrer></referrer>
-						<type>simple</type>
 						<action>deny</action>
 					</url>
 					<url>
@@ -592,36 +550,6 @@
 						<action>deny</action>
 					</url>
 					<url>
-						<pattern>anysex.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>hotsex.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>vagina.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>xbabe[.].*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>xcafe[.].*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
 						<pattern>.*babe.*[.].*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
@@ -652,12 +580,6 @@
 						<action>deny</action>
 					</url>
 					<url>
-						<pattern>.*camhub.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
 						<pattern>.*dick.*[.].*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
@@ -665,12 +587,6 @@
 					</url>
 					<url>
 						<pattern>.*erotic.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*fapboo.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
 						<action>deny</action>
@@ -772,12 +688,6 @@
 						<action>deny</action>
 					</url>
 					<url>
-						<pattern>.*theass.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
 						<pattern>.*tinder.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
@@ -808,60 +718,6 @@
 						<action>deny</action>
 					</url>
 					<url>
-						<pattern>horny.*[.].*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>kproxy[.].*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>lustery.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>pinflix.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>tuboff[.].*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*assfuck.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*asshole.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*bangbro.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*beegsex.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
 						<pattern>.*bestial.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
@@ -875,12 +731,6 @@
 					</url>
 					<url>
 						<pattern>.*blowjob.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*bmovies.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
 						<action>deny</action>
@@ -910,67 +760,7 @@
 						<action>deny</action>
 					</url>
 					<url>
-						<pattern>.*cumshot.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*desisex.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*dogfart.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*drtuber.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*fakehub.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*faproul.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*fapster.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*filmsex.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
 						<pattern>.*fisting.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*freesex.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*fullsex.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
 						<action>deny</action>
@@ -983,12 +773,6 @@
 					</url>
 					<url>
 						<pattern>.*hardsex.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*heavy-r.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
 						<action>deny</action>
@@ -1007,18 +791,6 @@
 					</url>
 					<url>
 						<pattern>.*lesbian.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*lovecam.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*nfbusty.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
 						<action>deny</action>
@@ -1054,12 +826,6 @@
 						<action>deny</action>
 					</url>
 					<url>
-						<pattern>.*pornhub.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
 						<pattern>.*pussies.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
@@ -1067,24 +833,6 @@
 					</url>
 					<url>
 						<pattern>.*redtube.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*sexcams.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*sextube.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*sextury.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
 						<action>deny</action>
@@ -1168,24 +916,6 @@
 						<action>deny</action>
 					</url>
 					<url>
-						<pattern>.*letsjerk.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*18videos.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*anybunny.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
 						<pattern>.*bisexual.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
@@ -1193,12 +923,6 @@
 					</url>
 					<url>
 						<pattern>.*daredorm.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*facefuck.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
 						<action>deny</action>
@@ -1217,12 +941,6 @@
 					</url>
 					<url>
 						<pattern>.*fapvid.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*gomovies.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
 						<action>deny</action>
@@ -1294,24 +1012,6 @@
 						<action>deny</action>
 					</url>
 					<url>
-						<pattern>.*palmtube.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*peekvids.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*pinkteen.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
 						<pattern>.*sex.*girl.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
@@ -1336,49 +1036,7 @@
 						<action>deny</action>
 					</url>
 					<url>
-						<pattern>.*tighteen.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*xfantazy.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
 						<pattern>.*xhamster.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*21natural.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*adultgame.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*adulttime.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*alohatube.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*beastysex.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
 						<action>deny</action>
@@ -1390,31 +1048,13 @@
 						<action>deny</action>
 					</url>
 					<url>
-						<pattern>.*bongacams.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
 						<pattern>.*brattysis.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
 						<action>deny</action>
 					</url>
 					<url>
-						<pattern>.*bravoteen.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
 						<pattern>.*fap-video.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*gfrevenge.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
 						<action>deny</action>
@@ -1456,18 +1096,6 @@
 						<action>deny</action>
 					</url>
 					<url>
-						<pattern>.*hypnotube.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*indiansex.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
 						<pattern>.*momsteach.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
@@ -1475,24 +1103,6 @@
 					</url>
 					<url>
 						<pattern>.*nude.*girl.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*oldmoms.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*pervclips.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*pornvideo.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
 						<action>deny</action>
@@ -1516,18 +1126,6 @@
 						<action>deny</action>
 					</url>
 					<url>
-						<pattern>.*sexedchat.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*sexscenes.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
 						<pattern>.*shameless.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
@@ -1541,12 +1139,6 @@
 					</url>
 					<url>
 						<pattern>.*stripchat.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*sunny.*leo.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
 						<action>deny</action>
@@ -1594,12 +1186,6 @@
 						<action>deny</action>
 					</url>
 					<url>
-						<pattern>.*daddyimage.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
 						<pattern>.*deepthroat.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
@@ -1612,73 +1198,7 @@
 						<action>deny</action>
 					</url>
 					<url>
-						<pattern>.*ghettotube.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
 						<pattern>.*glory.*hole.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*kamasuthra.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*kavitaluxi.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*latinculos.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*legalteens.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*lilhumpers.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*livejasmin.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*luckycrush.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*mondayflix.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*mywifesmom.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*noodle.*mag.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
 						<action>deny</action>
@@ -1691,18 +1211,6 @@
 					</url>
 					<url>
 						<pattern>.*nude.*women.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*punishbang.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*punishtube.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
 						<action>deny</action>
@@ -1726,36 +1234,6 @@
 						<action>deny</action>
 					</url>
 					<url>
-						<pattern>.*shesfreaky.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*thumbzilla.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*tubegalore.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*tubesafari.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*whippedass.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
 						<pattern>.*p=.*nsfw.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
@@ -1768,12 +1246,6 @@
 						<action>deny</action>
 					</url>
 					<url>
-						<pattern>.*allinternal.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
 						<pattern>.*beastiality.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
@@ -1781,42 +1253,6 @@
 					</url>
 					<url>
 						<pattern>.*cunnilingus.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*dirtypriest.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*dontbreakme.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*facesitting.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*monstercock.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*monsterdick.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*pandamovies.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
 						<action>deny</action>
@@ -1846,18 +1282,6 @@
 						<action>deny</action>
 					</url>
 					<url>
-						<pattern>.*brightdesire.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*hugemoviesdb.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
 						<pattern>.*monster.*cock.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
@@ -1870,91 +1294,7 @@
 						<action>deny</action>
 					</url>
 					<url>
-						<pattern>.*moviewatcher.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*perfectgonzo.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*realitykings.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*analyzedgirls.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*banananmovies.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*dirtyroulette.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*eroterest.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*iknowthatgirl.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
 						<pattern>.*sex.*positions.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*tightpinkteens.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*naughtyamerica.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*noodlemagazine.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*teenslikeitbig.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*twistysnetwork.*</pattern>
-						<referrer></referrer>
-						<type>regex</type>
-						<action>deny</action>
-					</url>
-					<url>
-						<pattern>.*digitalplayground.*</pattern>
 						<referrer></referrer>
 						<type>regex</type>
 						<action>deny</action>

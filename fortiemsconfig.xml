@@ -226,67 +226,73 @@
 				<log_user_initiated_traffic>0</log_user_initiated_traffic>
 				<urls>
 					<url>
-						<pattern>*.nofap.com/*</pattern>
+						<pattern>*nofap.com/*</pattern>
 						<referrer></referrer>
 						<type>wildcard</type>
 						<action>allow</action>
 					</url>
 					<url>
-						<pattern>*.yourbrainrebalanced.com/*</pattern>
+						<pattern>*localhost*</pattern>
 						<referrer></referrer>
 						<type>wildcard</type>
 						<action>allow</action>
 					</url>
 					<url>
-						<pattern>*.live.com/*</pattern>
+						<pattern>*yourbrainrebalanced.com/*</pattern>
 						<referrer></referrer>
 						<type>wildcard</type>
 						<action>allow</action>
 					</url>
 					<url>
-						<pattern>*.microsoft.com/*</pattern>
+						<pattern>*live.com/*</pattern>
 						<referrer></referrer>
 						<type>wildcard</type>
 						<action>allow</action>
 					</url>
 					<url>
-						<pattern>*.paypal.com/*</pattern>
+						<pattern>*microsoft.com/*</pattern>
 						<referrer></referrer>
 						<type>wildcard</type>
 						<action>allow</action>
 					</url>
 					<url>
-						<pattern>*.pluckeye.net/*</pattern>
+						<pattern>*paypal.com/*</pattern>
 						<referrer></referrer>
 						<type>wildcard</type>
 						<action>allow</action>
 					</url>
 					<url>
-						<pattern>*.pornreboot.com/*</pattern>
+						<pattern>*pluckeye.net/*</pattern>
 						<referrer></referrer>
 						<type>wildcard</type>
 						<action>allow</action>
 					</url>
 					<url>
-						<pattern>*.rebootnation.org/*</pattern>
+						<pattern>*pornreboot.com/*</pattern>
 						<referrer></referrer>
 						<type>wildcard</type>
 						<action>allow</action>
 					</url>
 					<url>
-						<pattern>*.reddit.com/r/nofap*</pattern>
+						<pattern>*rebootnation.org/*</pattern>
 						<referrer></referrer>
 						<type>wildcard</type>
 						<action>allow</action>
 					</url>
 					<url>
-						<pattern>*.reddit.com/r/pornfree*</pattern>
+						<pattern>*reddit.com/r/nofap/*</pattern>
 						<referrer></referrer>
 						<type>wildcard</type>
 						<action>allow</action>
 					</url>
 					<url>
-						<pattern>*.yourbrainonporn.com/*</pattern>
+						<pattern>*reddit.com/r/pornfree/*</pattern>
+						<referrer></referrer>
+						<type>wildcard</type>
+						<action>allow</action>
+					</url>
+					<url>
+						<pattern>*yourbrainonporn.com/*</pattern>
 						<referrer></referrer>
 						<type>wildcard</type>
 						<action>allow</action>

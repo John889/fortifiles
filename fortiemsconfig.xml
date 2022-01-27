@@ -216,7 +216,7 @@
 				<webbrowser_plugin>
 					<enabled>1</enabled>
 					<sync_mode>0</sync_mode>
-					<addressbar_only>0</addressbar_only>
+					<addressbar_only>1</addressbar_only>
 				</webbrowser_plugin>
 			</profile>
 			<profile>
@@ -1671,7 +1671,7 @@
 				<webbrowser_plugin>
 					<enabled>1</enabled>
 					<sync_mode>0</sync_mode>
-					<addressbar_only>0</addressbar_only>
+					<addressbar_only>1</addressbar_only>
 				</webbrowser_plugin>
 			</profile>
 		</profiles>
